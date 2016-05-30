@@ -1,0 +1,50 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [{
+    "img":"/meimeijia/img/my/my-1.png",
+    "title": "我的订单",
+    "title1":"&#xe612;"
+
+  },{
+    "img":"/meimeijia/img/my/my-2.png",
+    "title": "我的优惠卷",
+    "title1":"&#xe612;"
+
+  }, {
+    "img":"/meimeijia/img/my/my-3.png",
+    "title": "购物车",
+    "title1":"&#xe612;"
+
+  }, {
+    "img":"/meimeijia/img/my/my-4.png",
+    "title": "我的收藏",
+    "title1":"&#xe612;"
+
+  },{
+    "img":"/meimeijia/img/my/my-5.png",
+    "title": "系统消息",
+    "title1":"&#xe612;"
+
+  },{
+    "img":"/meimeijia/img/my/my-6.png",
+    "title": "相关协议",
+    "title1":"&#xe612;"
+
+  },{
+    "img":"/meimeijia/img/my/my-7.png",
+    "title": "关于我们",
+    "title1":"&#xe612;"
+
+  },{
+    "img":"/meimeijia/img/my/my-8.png",
+    "title": "联系客服",
+    "title1":"&#xe612;"
+
+  }  ]
+
+
+
+}

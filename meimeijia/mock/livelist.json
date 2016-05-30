@@ -1,0 +1,110 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [{
+    "img":"/meimeijia/img/shop/shop1-1.png",
+    "title": "ZFC钻石龙珠光亮粉6g",
+    "title1":"￥10.0<del>￥139.0</del>"
+
+  }, {
+    "img":"/meimeijia/img/shop/shop1-2.png",
+    "title": "ZFC钻石龙珠光亮粉6g",
+    "title1":"￥10.0<del>￥139.0</del>"
+  },{
+    "img":"/meimeijia/img/shop/shop1-3.png",
+    "title": "ZFC钻石龙珠光亮粉6g",
+      "title1":"￥10.0<del>￥139.0</del>"
+  }, {
+    "img":"/meimeijia/img/shop/shop1-4.png",
+    "title": "ZFC钻石龙珠光亮粉6g",
+      "title1":"￥10.0<del>￥139.0</del>"
+  }, {
+    "img":"/meimeijia/img/shop/shop1-5.png",
+    "title": "ZFC钻石龙珠光亮粉6g",
+      "title1":"￥10.0<del>￥139.0</del>"
+  }, {
+    "img":"/meimeijia/img/shop/shop1-6.png",
+    "title": "ZFC钻石龙珠光亮粉6g",
+      "title1":"￥10.0<del>￥139.0</del>"
+  }, {
+    "img":"/meimeijia/img/shop/shop1-7.png",
+    "title": "ZFC钻石龙珠光亮粉6g",
+      "title1":"￥10.0<del>￥139.0</del>"
+  }, {
+    "img":"/meimeijia/img/shop/shop1-8.png",
+    "title": "ZFC钻石龙珠光亮粉6g",
+      "title1":"￥10.0<del>￥139.0</del>"
+  }],
+    "data2": [{
+      "img":"/meimeijia/img/shop/shop2-1.png",
+      "title": "2016定制亚马逊热销款式礼服",
+      "title1":"￥10.0<del>￥139.0</del>"
+
+    }, {
+      "img":"/meimeijia/img/shop/shop2-2.png",
+      "title": "2016定制亚马逊热销款式礼服",
+      "title1":"￥10.0<del>￥139.0</del>"
+    },{
+      "img":"/meimeijia/img/shop/shop2-3.png",
+      "title": "2016定制亚马逊热销款式礼服",
+        "title1":"￥10.0<del>￥139.0</del>"
+    }, {
+      "img":"/meimeijia/img/shop/shop2-4.png",
+      "title": "2016定制亚马逊热销款式礼服",
+        "title1":"￥10.0<del>￥139.0</del>"
+    }, {
+      "img":"/meimeijia/img/shop/shop2-5.png",
+      "title": "2016定制亚马逊热销款式礼服",
+        "title1":"￥10.0<del>￥139.0</del>"
+    }, {
+      "img":"/meimeijia/img/shop/shop2-6.png",
+      "title": "2016鱼尾两件套礼服",
+        "title1":"￥10.0<del>￥139.0</del>"
+    }, {
+      "img":"/meimeijia/img/shop/shop2-7.png",
+      "title": "2016鱼尾两件套礼服",
+        "title1":"￥10.0<del>￥139.0</del>"
+    }, {
+      "img":"/meimeijia/img/shop/shop2-8.png",
+      "title": "2016鱼尾两件套礼服",
+        "title1":"￥10.0<del>￥139.0</del>"
+    }],
+     "data3": [{
+          "img":"/meimeijia/img/shop/shop3-1.png",
+          "title": "2016新娘中式头饰007",
+          "title1":"￥10.0<del>￥139.0</del>"
+
+        }, {
+          "img":"/meimeijia/img/shop/shop3-2.png",
+          "title": "2016新娘中式头饰007",
+          "title1":"￥10.0<del>￥139.0</del>"
+        },{
+          "img":"/meimeijia/img/shop/shop3-3.png",
+          "title": "2016新娘中式头饰007",
+            "title1":"￥10.0<del>￥139.0</del>"
+        }, {
+          "img":"/meimeijia/img/shop/shop3-4.png",
+          "title": "2016新娘中式头饰007",
+            "title1":"￥10.0<del>￥139.0</del>"
+        }, {
+          "img":"/meimeijia/img/shop/shop3-5.png",
+          "title": "2016新娘中式头饰007",
+            "title1":"￥10.0<del>￥139.0</del>"
+        }, {
+          "img":"/meimeijia/img/shop/shop3-6.png",
+          "title": "2016新娘中式头饰007",
+            "title1":"￥10.0<del>￥139.0</del>"
+        }, {
+          "img":"/meimeijia/img/shop/shop3-7.png",
+          "title": "2016新娘中式头饰007",
+            "title1":"￥10.0<del>￥139.0</del>"
+        }, {
+          "img":"/meimeijia/img/shop/shop3-8.png",
+          "title": "2016新娘中式头饰007",
+            "title1":"￥10.0<del>￥139.0</del>"
+        }]
+
+
+}
